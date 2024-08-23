@@ -12,7 +12,7 @@ Project Sistem Pendukung Keputusan dalam memudahkan perekrutan anggota BEM mengg
 ![SPK BEM - Hasil Akhir](https://github.com/user-attachments/assets/b74e5d17-3109-4a90-a01f-7b6cf7c91adf)
 ![SPK BEM - Manajemen Akun](https://github.com/user-attachments/assets/23614050-79e7-4b46-90ec-b3d47a2186f8)
 
-#Fitur Aplikasi
+# Fitur Aplikasi
 - Login sebagai admin untuk menginput nilai-nilai yang dibutuhkan untuk mengelola data mahasiswa
 - halaman dashboard terdapat beberapa fungsi, yaitu jumlah mahasiswa dan jumlah akun yang tersimpan pada database
 - halaman alternatif untuk menginput data mahasiswa
@@ -21,7 +21,7 @@ Project Sistem Pendukung Keputusan dalam memudahkan perekrutan anggota BEM mengg
 - halaman hasil akhir sebagai hasil perbandingan nilai antara metode SAW dan WP
 - halaman manajemen akun untuk menginput data akun yang dapat mengakses aplikasi ini
 
-#Petunjuk menjalankan source code aplikasi
+# Petunjuk menjalankan source code aplikasi
 1. Login terlebih dahulu
 2. Mengelola data alternatif
 3. Tentukan nilai bobot kriteria
@@ -29,7 +29,7 @@ Project Sistem Pendukung Keputusan dalam memudahkan perekrutan anggota BEM mengg
 5. Jika semua terisi, otomatis perhitungan akan muncul dalam halaman perhitungan saw, wp, maupun hasil akhir
 6. jika ingin mencetak bisa juga dalam halaman hasil akhir terdapat tombol cetak maupun download file
 
-#Demo
+# Demo
 Hanya terdapat 2 hak akses yaitu Admin dan Staff <br>
 Admin <br>
 Username  : febb <br>
@@ -39,7 +39,7 @@ Staff <br>
 Username  : staf <br>
 Password  : staf <br>
 
-#Author
+# Author
 Febrian Nur Jananto
 
 jika butuh database nya bisa dm <a href="https://www.instagram.com/_febriannj/">disini</a>
