@@ -30,7 +30,7 @@ Project Sistem Pendukung Keputusan dalam memudahkan perekrutan anggota BEM mengg
 6. jika ingin mencetak bisa juga dalam halaman hasil akhir terdapat tombol cetak maupun download file
 
 #Demo
-Hanya terdapat 2 hak akses yaitu Admin dan Staff
+Hanya terdapat 2 hak akses yaitu Admin dan Staff <br>
 Admin <br>
 Username  : febb <br>
 Password  : 123 <br>
@@ -42,4 +42,4 @@ Password  : staf <br>
 #Author
 Febrian Nur Jananto
 
-jika butuh database nya bisa dm saja 
+jika butuh database nya bisa dm <a href="https://www.instagram.com/_febriannj/">disini</a>
