@@ -41,5 +41,3 @@ Password  : staf <br>
 
 # Author
 Febrian Nur Jananto
-
-jika butuh database nya bisa dm <a href="https://www.instagram.com/_febriannj/">disini</a>
